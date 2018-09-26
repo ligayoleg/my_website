@@ -1,0 +1,22 @@
+{
+  "name": "www.olegligay.com",
+  "version": "2.0.0",
+  "description": "Portfolio Website for Oleg Ligay",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o src/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ligayoleg/my_website.git"
+  },
+  "author": "Oleg Ligay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ligayoleg/my_website/issues"
+  },
+  "homepage": "https://github.com/ligayoleg/my_website#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
