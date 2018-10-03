@@ -9,3 +9,5 @@
   - if we install anything with _npm_, it will get put in this file inside the dipendencies object.
   - after that we can install node-sass. What it is going to do is create a _node_modules_ folder anytime you install something with _npm_ it will be installed into node_modules folder.
   - after downloading it we need to make it work. In _package.json_ there is something called **scripts** object. There we need to change test to sass and value to "node-sass -w scss/ -o src/scc --recursive". where **-w** watches for changes in scss folder and **-o** outputs it into _src/css/_ folder.
+
+- to run sass in terminal we need to run _node run sass_.
