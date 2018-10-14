@@ -1,5 +1,5 @@
-# my_website
+# My Website - training edition
 
-www.olegligay.com version 2.0
+### This is an educated version.
 
-Website was done based on video tutorials from Brad Traversy.
+This website is made from video tutorial of Brad Traversy and serves an educational purpose to learn more about Sass and npm management.
